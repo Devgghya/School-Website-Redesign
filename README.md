@@ -2,6 +2,8 @@
 
 A premium, modern, and accessible website redesign for The Himalayan Public School featuring a student-centric architecture, immersive visuals, and responsive interactive elements.
 
+**🌐 [Live Demo](https://devgghya.github.io/School-Website-Redesign/)**
+
 ## 🎯 Project Overview
 
 This project is a complete redesign of The Himalayan Public School's website, built with modern web technologies to provide an engaging and accessible user experience. The site features smooth animations, responsive design, and interactive components that showcase the school's values and offerings.
