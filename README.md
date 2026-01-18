@@ -35,7 +35,7 @@ This project is a complete redesign of The Himalayan Public School's website, bu
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/School-Website-Redesign.git
+git clone https://github.com/devgghya/School-Website-Redesign.git
 cd School-Website-Redesign
 ```
 
