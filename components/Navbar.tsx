@@ -77,7 +77,7 @@ const Navbar: React.FC = () => {
         <Link to="/" className="flex items-center space-x-3 group" onClick={() => setIsOpen(false)}>
           <div className="h-16 w-16 flex items-center justify-center">
             <img 
-              src="/e07adf3b-ca22-4d24-9eb1-63504724b6e3.png" 
+              src={`${import.meta.env.BASE_URL}e07adf3b-ca22-4d24-9eb1-63504724b6e3.png`}
               alt="THPS Logo" 
               className="h-full w-auto object-contain drop-shadow-md rounded-xl"
             />

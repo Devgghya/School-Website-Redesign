@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <div className="col-span-1 md:col-span-1">
             <div className="flex items-center space-x-3 mb-6">
                <img 
-                 src="/e07adf3b-ca22-4d24-9eb1-63504724b6e3.png" 
+                 src={`${import.meta.env.BASE_URL}e07adf3b-ca22-4d24-9eb1-63504724b6e3.png`}
                  alt="THPS Logo" 
                  className="h-12 w-auto rounded-xl" 
                />
